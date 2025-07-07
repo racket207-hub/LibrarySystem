@@ -1,3 +1,8 @@
+/**
+ * @author Salvatore Garufi
+ * @since 07/07/2025
+ *
+ */
 public class Library {
     private LibraryItem[] items;
     private int itemCount;

@@ -25,18 +25,34 @@ public class EBook implements IBook {
         this.fileSizeMB = fileSizeMB;
     }
 
+    /**
+     * Input getTitle()
+     * @return title
+     */
     public String getTitle() {
         return title;
     }
 
+    /**
+     *  input getAuthor()
+     * @return author
+     */
     public String getAuthor() {
         return author;
     }
 
+    /**
+     * input getPages()
+     * @return pages
+     */
     public int getPages() {
         return pages;
     }
 
+    /**
+     * input getFileSizeMB()
+     * @return fileSizeMB
+     */
     public double getFileSizeMB() {
         return fileSizeMB;
     }
