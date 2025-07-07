@@ -20,7 +20,7 @@ public class LibraryItem {
     }
 
     /**
-     * tramita getBook si ritorna:
+     * tramita il metodo getBook
      * @return book
      */
     public IBook getBook() {
@@ -28,7 +28,7 @@ public class LibraryItem {
     }
 
     /**
-     * tramite getQuantity si ritorna:
+     * tramite il metodo getQuantity
      * @return quantity
      */
     public int getQuantity() {
